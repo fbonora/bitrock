@@ -19,6 +19,6 @@ The commands are:
 
 - `add player <PLAYER_NAME>` : add player to game.
 - `move <PLAYER_NAME>` : rolls two dice and move player.
-- `move <PLAYER_NAME> <X>, <Y>` : move player of <X> + <Y> cells.
+- `move <PLAYER_NAME> <X>, <Y>` : move player of X + Y cells.
 - `exit` : exit the game.
 
