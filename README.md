@@ -11,7 +11,7 @@ To compile and build the project follow this steps:
 
 ## Play game
 
-To start game go to **target** directory under project directory and execute `java -jar goose-game-1.0.jar`
+To start game go to **target** directory under project directory and execute `java -jar goose-1.0.jar`
 
 ### Game commands
 
